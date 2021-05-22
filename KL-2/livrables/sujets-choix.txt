@@ -1,2 +1,0 @@
-Sujet sélectionné : Jeu d’échecs
-Attention : s'il n'y a que la partie entre deux joueurs "humains" c'est trop simple, et coder un ordinateur qui joue intelligement aux échecs n'est pas forcément simple.
